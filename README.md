@@ -1,6 +1,6 @@
 # omni-emotion
 offical code for omni-emotion via reinforce learning
-
+```
 conda create -n r1-v python=3.11 
 conda activate r1-v
 pip install modelscope
@@ -24,3 +24,4 @@ cd /home/featurize/work/R1-Omni/src/r1-v
 
 pip install wandb
 bash run_grpo_humanomni.sh
+```
